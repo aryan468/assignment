@@ -1,0 +1,292 @@
+.label {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 5.5px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button {
+  background-color: var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-xs);
+  white-space: nowrap;
+}
+.sedanHatchbackSuvPassengerChild {
+  width: 62.1px;
+  height: 46.8px;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  display: none;
+}
+.acSedans {
+  width: 39.1px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.acHatchbacks {
+  width: 45px;
+  display: inline-block;
+}
+.acHatchbacks,
+.acSuv {
+  position: relative;
+  z-index: 1;
+}
+.carTypeButtonList,
+.sedanHatchbackSuvPassenger {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sedanHatchbackSuvPassenger {
+  align-self: stretch;
+  background-color: var(--color-lightgoldenrodyellow);
+  padding: var(--padding-8xs) var(--padding-7xs) var(--padding-3xs-3);
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-dimgray-200);
+}
+.carTypeButtonList {
+  width: 62.1px;
+  gap: var(--gap-12xs-1);
+}
+.label1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 5.5px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button1 {
+  background-color: var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs);
+  white-space: nowrap;
+}
+.frameChild {
+  width: 81px;
+  height: 46.8px;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  display: none;
+}
+.ertigaXyloEtc,
+.etiosAmazeDzire,
+.wagonRCelerio {
+  position: relative;
+  z-index: 1;
+}
+.carTypeButtonList1,
+.rectangleParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.rectangleParent {
+  background-color: var(--color-lightgoldenrodyellow);
+  align-items: flex-start;
+  padding: var(--padding-8xs) var(--padding-9xs) var(--padding-3xs-3);
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-dimgray-200);
+}
+.carTypeButtonList1 {
+  align-items: flex-end;
+  gap: var(--gap-12xs-1);
+}
+.label2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 5.5px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button2 {
+  align-self: stretch;
+  background-color: var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-11xs);
+}
+.frameItem {
+  width: 56.6px;
+  height: 46.8px;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  display: none;
+}
+.pax {
+  width: 19.2px;
+  display: inline-block;
+}
+.pax,
+.pax1,
+.pax2 {
+  position: relative;
+  z-index: 1;
+}
+.pax2 {
+  width: 25.7px;
+  display: inline-block;
+}
+.carTypeButtonList2,
+.rectangleGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleGroup {
+  background-color: var(--color-lightgoldenrodyellow);
+  padding: var(--padding-8xs) var(--padding-sm) var(--padding-4xs-5)
+    var(--padding-base);
+  gap: var(--gap-8xs-9);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-dimgray-200);
+}
+.carTypeButtonList2 {
+  width: 56.8px;
+  gap: var(--gap-12xs-1);
+}
+.label3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 5.5px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button3 {
+  background-color: var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-18xl);
+  white-space: nowrap;
+}
+.tripTypeDescriptionChild {
+  width: 114.2px;
+  height: 46.8px;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  display: none;
+}
+.comfortableTripsWith {
+  align-self: stretch;
+}
+.budgetTripsOver,
+.comfortableTripsWith,
+.premiumTripsWith {
+  position: relative;
+  z-index: 1;
+}
+.tripTypeButtonList,
+.tripTypeDescription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tripTypeDescription {
+  align-self: stretch;
+  background-color: var(--color-lightgoldenrodyellow);
+  padding: var(--padding-9xs-8) var(--padding-11xs) var(--padding-6xs-5);
+  gap: var(--gap-8xs-9);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-dimgray-200);
+}
+.tripTypeButtonList {
+  flex: 1;
+  gap: var(--gap-12xs-1);
+}
+.label4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 5.5px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button4 {
+  align-self: stretch;
+  background-color: var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-6xs);
+}
+.frameInner {
+  width: 35.1px;
+  height: 46.8px;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  display: none;
+}
+.rs11km,
+.rs11km1,
+.rs13km {
+  position: relative;
+  z-index: 1;
+}
+.rectangleContainer,
+.tripTypeButtonList1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleContainer {
+  align-self: stretch;
+  background-color: var(--color-lightgoldenrodyellow);
+  padding: var(--padding-9xs-8) var(--padding-9xs) var(--padding-5xs-2);
+  gap: var(--gap-8xs-9);
+  font-size: var(--font-size-8xs);
+  color: var(--color-dimgray-200);
+}
+.tripTypeButtonList1 {
+  width: 35.4px;
+  gap: var(--gap-12xs-1);
+}
+.carTypeButtonListParent,
+.tripTypeButtonListParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.tripTypeButtonListParent {
+  flex: 1;
+}
+.carTypeButtonListParent {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-11xs);
+  text-align: center;
+  font-size: var(--font-size-5xs);
+  color: var(--primary-neutral-0);
+  font-family: var(--font-poppins);
+}

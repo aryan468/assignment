@@ -1,0 +1,140 @@
+.noOverPricing {
+  position: relative;
+  font-weight: 700;
+}
+.firstBenefit {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+}
+.cheapestCostsI {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-weight: 300;
+  font-family: var(--font-poppins);
+}
+.benefitsTwoItemsOne {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs-1);
+}
+.frameChild {
+  align-self: stretch;
+  width: 0;
+  max-height: 100%;
+  object-fit: contain;
+  min-height: 30px;
+}
+.frameChild,
+.noReturnFare {
+  position: relative;
+}
+.benefitsTwoSubItemsOne {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl);
+}
+.oneWayCabFare {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-weight: 300;
+  font-family: var(--font-poppins);
+}
+.benefitsTwoItemsOne1,
+.benefitsTwoItemsOneParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs-1);
+}
+.benefitsTwoItemsOneParent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-lgi);
+}
+.downloadNow {
+  flex: 1;
+  position: relative;
+  font-weight: 700;
+}
+.downloadNowWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-6xs) 0 var(--padding-5xs);
+}
+.image6Icon,
+.image7Icon {
+  align-self: stretch;
+  width: 107.4px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 42px;
+}
+.appStoreIcons,
+.downloadAppContent {
+  display: flex;
+  justify-content: flex-start;
+}
+.appStoreIcons {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.downloadAppContent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-12xs-5);
+}
+.downloadAppButton {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-43xl) 0 var(--padding-42xl);
+  font-size: var(--font-size-2xl);
+}
+.benefits,
+.travelsafepng {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.travelsafepng {
+  flex: 1;
+  border-radius: var(--br-smi-5);
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-3) var(--padding-7xs) var(--padding-xs-7);
+  gap: var(--gap-4xs-9);
+  z-index: 3;
+}
+.benefits {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs) 0 var(--padding-7xs);
+  margin-top: -20px;
+  text-align: center;
+  font-size: var(--font-size-smi-5);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

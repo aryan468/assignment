@@ -1,0 +1,831 @@
+.whatsappImage20230924At1 {
+  align-self: stretch;
+  height: 23.4px;
+  position: relative;
+  border-radius: 2.88px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.downloadContent {
+  width: 80.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.6px var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.bangkokIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.itemLink {
+  position: absolute;
+  top: 3.1px;
+  left: 29.1px;
+  width: 6.8px;
+  height: 3.7px;
+  object-fit: contain;
+  z-index: 4;
+}
+.benefitIcons {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.a {
+  text-decoration: none;
+  position: relative;
+  font-weight: 800;
+  color: inherit;
+  z-index: 1;
+}
+.benefitOne,
+.benefitOneWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefitOne {
+  align-self: stretch;
+  padding: var(--padding-12xs-7) var(--padding-2xs) var(--padding-8xs-1);
+  position: relative;
+}
+.benefitOneWrapper {
+  width: 36.8px;
+  padding: 10.5px 0 0;
+  box-sizing: border-box;
+}
+.cfcbafdedacnewprojectmiIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.boracayIcon {
+  position: absolute;
+  top: 0.6px;
+  left: 2.8px;
+  width: 7px;
+  height: 7.2px;
+  object-fit: contain;
+  z-index: 3;
+}
+.cfcbafdedacnewprojectmiParent {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.china {
+  text-decoration: none;
+  position: relative;
+  font-weight: 800;
+  color: inherit;
+  z-index: 2;
+}
+.benefitTwoIcons {
+  width: 27.9px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0.4px;
+  left: -17.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs-7) var(--padding-4xs) var(--padding-8xs-1)
+    var(--padding-xs);
+  box-sizing: border-box;
+}
+.benefitThreeChild {
+  height: 14.4px;
+  width: 73.8px;
+  position: relative;
+  border-radius: 14.04px;
+  background-color: var(--color-darkgreen);
+  display: none;
+}
+.a1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 6.8px;
+  text-transform: capitalize;
+  font-weight: 800;
+  color: inherit;
+  text-shadow: 0 1.4px 3.6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.benefitThree {
+  flex: 1;
+  border-radius: 14.04px;
+  background-color: var(--color-darkgreen);
+  flex-direction: row;
+  padding: var(--padding-8xs-3) var(--padding-8xs) var(--padding-9xs-3)
+    var(--padding-2xs);
+  font-size: 8.3px;
+  color: var(--primary-neutral-0);
+}
+.benefitThree,
+.downloadLink,
+.downloadLinkWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.downloadLink {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.downloadLinkWrapper {
+  width: 82.3px;
+  flex-direction: column;
+  padding: 10.1px var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-darkgreen);
+}
+.darjeeling {
+  height: 19px;
+  width: 19px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgreen);
+}
+.downloadForOfflineIcon {
+  height: 13.4px;
+  width: 13.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3px;
+  left: 3px;
+  z-index: 1;
+}
+.buttonContent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-8xs-3);
+}
+.deffbbabeamainjpg {
+  height: 19px;
+  width: 19px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgreen);
+}
+.itemLinkChild {
+  height: 13.4px;
+  width: 13.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3px;
+  left: 3px;
+  z-index: 1;
+}
+.itemLink1 {
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-8xs-3);
+}
+.downloadButton,
+.downloadButtonWrapper,
+.itemLink1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.downloadButton {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: var(--gap-xl);
+}
+.downloadButtonWrapper {
+  width: 79.2px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.downloadApp,
+.ravi {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.downloadApp {
+  white-space: nowrap;
+}
+.ravi {
+  width: 24.2px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.downloadAppParent {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 8.1px;
+}
+.downloadAppParent,
+.downloadContentParent,
+.frameGroup {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameGroup {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2.2px;
+  text-align: center;
+  color: var(--color-black);
+}
+.downloadContentParent {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 12.5px;
+  max-width: 100%;
+}
+.frameParent,
+.frameWrapper,
+.heroContentParent {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameWrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi) 0 var(--padding-7xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-2xs-4);
+  color: var(--primary-neutral-0);
+  font-family: var(--font-lato);
+}
+.frameParent,
+.heroContentParent {
+  flex-direction: column;
+  align-items: flex-end;
+}
+.frameParent {
+  align-items: flex-start;
+  gap: 12.7px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 1.4px 7.92px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--color-darkgreen);
+  border: 0 solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.babfeedaefabeechinaminjpg {
+  position: absolute;
+  top: 2.2px;
+  left: 3px;
+  box-shadow: 0 1.4px 12.24px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--primary-neutral-0);
+  width: 2.3px;
+  height: 1.6px;
+  z-index: 5;
+}
+.ellipseParent {
+  width: 8.4px;
+  height: 5.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: 22.9px;
+  left: 130.4px;
+}
+.imageProcessing2020070514536Icon {
+  width: 166.3px;
+  height: 102.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: -0.3px;
+  bottom: 984.7px;
+  object-fit: cover;
+}
+.whyChooseAc {
+  margin: 0;
+}
+.span {
+  color: var(--color-dimgray-200);
+}
+.oneWayJourney {
+  margin: 0;
+  color: var(--color-darkgreen);
+}
+.whyChooseAcContainer {
+  width: 195px;
+  height: 70.2px;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.ourOnewayCabServiceIsChea,
+.soBookYouOnewayCabFromLu {
+  display: block;
+}
+.readMore1 {
+  font-weight: 800;
+}
+.readMore {
+  display: block;
+}
+.ourOnewayCabContainer {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 10px;
+  letter-spacing: -0.01em;
+  line-height: 12px;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.whyChooseAcBusOrAcTrainParent {
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs-8);
+}
+.landingPageKshitiz2PhoneInner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 34px;
+  text-align: left;
+  font-size: 15.6px;
+  color: var(--color-dimgray-200);
+  font-family: var(--font-poppins);
+}
+.discoveringIndiasDiverse,
+.oneScenicRoad {
+  display: block;
+}
+.discoveringIndiasDiverseContainer {
+  margin: 0;
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.discoveringIndiasDiverseLaWrapper {
+  align-self: stretch;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-darkgreen);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-3) var(--padding-17xl) var(--padding-9xs-2);
+}
+.experienceTheThrill {
+  margin-bottom: 0;
+}
+.experienceTheThrillOfRoad {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.blankLine {
+  display: block;
+}
+.insteadOfWorrying {
+  margin-bottom: 0;
+}
+.insteadOfWorryingAboutThe {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.blankLine1 {
+  display: block;
+}
+.weCherishThe {
+  margin-bottom: 0;
+}
+.weCherishTheFreedomToStop {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.blankLine2 {
+  display: block;
+}
+.noDestinationIs {
+  margin-bottom: 0;
+}
+.noDestinationIsTooFarOrT {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.blankLine3 {
+  display: block;
+}
+.planningYourTrip {
+  margin-bottom: 0;
+}
+.planningYourTripIsABreeze {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.blankLine4 {
+  display: block;
+}
+.ourExperiencedDrivers {
+  margin-bottom: 0;
+}
+.ourExperiencedDriversAreYo {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.experienceTheThrillContainer {
+  margin: 0;
+  height: 160px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.oneWayCabBenefitsDescripti,
+.thrillOfTravelDescription {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.thrillOfTravelDescription {
+  align-self: stretch;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-xs-5) var(--padding-7xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-7xs-5);
+  color: var(--color-dimgray-200);
+}
+.oneWayCabBenefitsDescripti {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.oneWayCabBenefitsDescriptiWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xs) 13.5px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--primary-neutral-0);
+  font-family: var(--font-poppins);
+}
+.whyChooseYatri {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+}
+.fdaacbdabdaaedalasvegasmin {
+  align-self: stretch;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-darkgreen);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-3) 69px var(--padding-9xs-2);
+}
+.expertChauffeursAt,
+.extensiveIndustryExperience,
+.safetyIsOur,
+.serviceYouCan,
+.yatriCarRental {
+  margin-bottom: 0;
+}
+.yatriCarRentalHasBeenATr {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.yatriCarRentalContainer {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01px;
+  display: inline-block;
+  max-width: 100%;
+}
+.affordableTravelDescription,
+.lasVegas {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lasVegas {
+  flex: 1;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-xs-5) var(--padding-9xs);
+}
+.affordableTravelDescription {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  text-align: left;
+  font-size: var(--font-size-7xs-5);
+  color: var(--color-dimgray-200);
+}
+.fdaacbdabdaaedalasvegasminParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  max-width: 100%;
+}
+.landingPageKshitiz2PhoneChild {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xs) var(--padding-16xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--primary-neutral-0);
+  font-family: var(--font-poppins);
+}
+.frameItem {
+  width: 360px;
+  height: 41.3px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.policyIconChild {
+  height: 12.5px;
+  width: 35.9px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.policyIcon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl) 0 var(--padding-17xl);
+}
+.about,
+.home {
+  position: absolute;
+  top: 0;
+  left: 2.7px;
+  z-index: 1;
+}
+.about {
+  left: 18.2px;
+}
+.contact,
+.news,
+.newsletter,
+.services {
+  position: absolute;
+  top: 0;
+  left: 33.5px;
+  z-index: 1;
+}
+.contact,
+.news,
+.newsletter {
+  left: 51.7px;
+}
+.contact,
+.newsletter {
+  left: 66.5px;
+}
+.newsletter {
+  top: 8.9px;
+  left: 0;
+  font-size: 3.5px;
+  font-weight: 500;
+}
+.frameInner {
+  height: 6.3px;
+  width: 68.3px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.email {
+  width: 16.8px;
+  position: relative;
+  line-height: 2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.rectangleParent {
+  position: absolute;
+  top: 8.3px;
+  left: 23px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 68.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.2px var(--padding-8xs) 2.1px;
+  box-sizing: border-box;
+  z-index: 1;
+  color: #4f4f4f;
+}
+.privacyPolicy {
+  position: relative;
+  z-index: 1;
+}
+.policyImageChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-black);
+  border: 0.3px solid var(--primary-neutral-0);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.faceaeceadacabalimainjpgIcon {
+  position: absolute;
+  top: 1.5px;
+  left: 7.8px;
+  width: 5px;
+  height: 3px;
+  z-index: 3;
+}
+.policyImage {
+  height: 6.3px;
+  width: 22.5px;
+  position: relative;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-black);
+  border: 0.3px solid var(--primary-neutral-0);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.privacyPolicyParent,
+.socialIcons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.socialIcons {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.privacyPolicyParent {
+  position: absolute;
+  top: 0;
+  left: 84.2px;
+  flex-direction: column;
+  gap: 3.3px;
+}
+.navigationMenu {
+  width: 108px;
+  height: 14.6px;
+  position: relative;
+}
+.allCopyrightsAre {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.landingPageKshitiz2Phone,
+.socialLinks,
+.vectorParent {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.socialLinks {
+  width: 109px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 22px 0 var(--padding-2xl);
+  text-align: center;
+  font-size: 2.5px;
+}
+.landingPageKshitiz2Phone,
+.vectorParent {
+  flex-direction: column;
+}
+.vectorParent {
+  align-self: stretch;
+  background-color: var(--color-black);
+  align-items: center;
+  padding: 0.3px var(--padding-xl) 3.5px var(--padding-2xl);
+  gap: 3.2px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-10xs);
+  color: var(--primary-neutral-0);
+  font-family: var(--font-poppins);
+}
+.landingPageKshitiz2Phone {
+  width: 100%;
+  position: relative;
+  background-color: var(--primary-neutral-0);
+  align-items: flex-end;
+  padding: var(--padding-4xs-7) 0 0.2px;
+  gap: 38px;
+  line-height: normal;
+  letter-spacing: normal;
+}

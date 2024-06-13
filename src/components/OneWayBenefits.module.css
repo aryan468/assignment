@@ -1,0 +1,189 @@
+.frameChild {
+  height: 12px;
+  width: 19px;
+  position: relative;
+}
+.returnFareDescriptionInner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+}
+.returnFareNot {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.returnFareTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+}
+.whyPayFor {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-8xs);
+  text-transform: capitalize;
+  color: var(--color-black);
+  text-align: center;
+}
+.availableRoutesList,
+.returnFareDescription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.returnFareDescription {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-6xs-3);
+}
+.availableRoutesList {
+  width: 97.1px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs-9);
+  box-sizing: border-box;
+}
+.heading {
+  height: 69.9px;
+  width: 0.3px;
+  position: relative;
+  border-right: 0.3px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.returnFareIconChild {
+  height: 21.4px;
+  width: 16.5px;
+  position: relative;
+}
+.returnFareIcon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-27xl);
+}
+.gpsBasedBilling {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.sinceTheGps {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  white-space: pre-wrap;
+  padding-left: 0;
+}
+.gPSBillingIcon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs);
+  font-size: var(--font-size-8xs);
+  color: var(--color-black);
+}
+.returnFareIconParent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs-8);
+  text-align: center;
+}
+.itemLink {
+  height: 69.9px;
+  width: 0.3px;
+  position: relative;
+  border-right: 0.3px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.vuesaxlineardrivingIcon {
+  height: 19.9px;
+  width: 21.4px;
+  position: relative;
+}
+.gPSBillingExplanation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl) 0 var(--padding-28xl);
+}
+.nowAvailableRoutes {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lucknowGorakhpur {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.availableRoutesIcon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) 0 var(--padding-mid);
+  text-align: center;
+  font-size: var(--font-size-8xs);
+  color: var(--color-black);
+}
+.availableRoutesDescription,
+.returnFareContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.availableRoutesDescription {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-7xs-6);
+}
+.returnFareContent {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-mini-3);
+}
+.oneWayBenefits,
+.returnFareSeparator {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.returnFareSeparator {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs-8);
+}
+.oneWayBenefits {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) var(--padding-4xs-7);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-darkgreen);
+  font-family: var(--font-poppins);
+}

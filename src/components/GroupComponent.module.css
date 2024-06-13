@@ -1,0 +1,83 @@
+.frameChild {
+  width: 120.3px;
+  height: 76.5px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-300);
+  border: 0.3px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.instantBookingConfirmation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.instantBookingContainer {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.confirmedBookingImmediately {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.confirmedBookingImmediatelyContainer {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.noReturnFareForOneWayTri {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.noReturnFareContainer {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.cleanProfessionalCabServi {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.cleanProfessionalContainer {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.transparentBillingWithGpsB {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-6xs);
+}
+.transparentBillingWithContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 6.3px;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.rectangleParent {
+  flex: 1;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-300);
+  border: 0.3px solid var(--color-dimgray-200);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-11xs) var(--padding-3xs);
+  gap: var(--gap-6xs-3);
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,100 @@
+.whyChooseOne {
+  margin: 0;
+  align-self: stretch;
+  height: 37px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.d43c11d76c7db33af616426597e888Icon {
+  align-self: stretch;
+  width: 107px;
+  position: relative;
+  border-radius: 3.75px;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 75px;
+}
+.benefitsDetails,
+.benefitsDetailsWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.benefitsDetails {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-8xs-4);
+}
+.benefitsDetailsWrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-11xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-black);
+}
+.span {
+  color: var(--color-darkgreen);
+}
+.intercityCarRentals1 {
+  font-weight: 600;
+}
+.intercityCarRentals {
+  color: var(--color-darkgreen);
+}
+.discoverAffordableTravelContainer {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 13.5px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: 0;
+}
+.benefitsList {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-100);
+}
+.aCBusComparisonDescription {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  max-width: 100%;
+}
+.aCBusComparisonDescriptionWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) var(--padding-mini-5) var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-poppins);
+}
